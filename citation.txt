@@ -1,0 +1,7 @@
+@inproceedings{REPO373,
+    author = "Zhao, Yi and Li, Chaozhuo and Peng, Jiquan and Fang, Xiaohan and Huang, Feiran and Wang, Senzhang and Xie, Xing and Gong, Jibing",
+    booktitle = "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    pages = "1488--1497",
+    title = "{Beyond the Overlapping Users: Cross-Domain Recommendation via Adaptive Anchor Link Learning}",
+    year = "2023"
+}
